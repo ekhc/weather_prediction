@@ -1,0 +1,47 @@
+{
+    "name": "태풍",
+    "datetime": "201907192300",
+    "sat": {
+        "ea": {
+            "png": "/1.Dataset/1_원천데이터/sat/kompasat2a/ea/sw038/png/201907/201907192300_KOMPASAT2A_EA_SW038.png",
+            "nc": "/1.Dataset/1_원천데이터/sat/kompasat2a/ea/sw038/nc/201907/201907192300_KOMPASAT2A_EA_SW038.nc"
+        },
+        "ko": {
+            "png": "/1.Dataset/1_원천데이터/sat/kompasat2a/ko/sw038/png/201907/201907192300_KOMPASAT2A_KO_SW038.png",
+            "nc": "/1.Dataset/1_원천데이터/sat/kompasat2a/ko/sw038/nc/201907/201907192300_KOMPASAT2A_KO_SW038.nc"
+        }
+    },
+    "rad": {
+        "comp": "/1.Dataset/1_원천데이터/rad/com/201907/201907192300_RAD_COMP.png",
+        "uf": {
+            "kwk": "/1.Dataset/1_원천데이터/rad/site/uf/KWK/201907/201907192300_RAD_KWK.nc",
+            "bri": "/1.Dataset/1_원천데이터/rad/site/uf/BRI/201907/201907192300_RAD_BRI.nc",
+            "gdk": "/1.Dataset/1_원천데이터/rad/site/uf/GDK/201907/201907192300_RAD_GDK.nc",
+            "gng": "/1.Dataset/1_원천데이터/rad/site/uf/GNG/201907/201907192300_RAD_GNG.nc",
+            "ksn": "/1.Dataset/1_원천데이터/rad/site/uf/KSN/201907/201907192300_RAD_KSN.nc",
+            "jni": "/1.Dataset/1_원천데이터/rad/site/uf/JNI/201907/201907192300_RAD_JNI.nc",
+            "myn": "/1.Dataset/1_원천데이터/rad/site/uf/MYN/201907/201907192300_RAD_MYN.nc",
+            "psn": "/1.Dataset/1_원천데이터/rad/site/uf/PSN/201907/201907192300_RAD_PSN.nc",
+            "gsn": "/1.Dataset/1_원천데이터/rad/site/uf/GSN/201907/201907192300_RAD_GSN.nc",
+            "ssp": "/1.Dataset/1_원천데이터/rad/site/uf/SSP/201907/201907192300_RAD_SSP.nc",
+            "iia": "/1.Dataset/1_원천데이터/rad/site/uf/IIA/201907/201907192300_RAD_IIA.nc"
+        }
+    },
+    "obs": {
+        "aws": "/1.Dataset/1_원천데이터/obs/aws/2019/201907.csv",
+        "amos_folder": "/1.Dataset/1_원천데이터/obs/amos/"
+    },
+    "geojson_folder": "/1.Dataset/2_라벨링데이터/기상분석데이터/typoon/20190719/",
+    "risk_region": {
+        "서울·인천·경기도": 0,
+        "부산·울산·경상남도": 2,
+        "대구·경상북도": 0,
+        "광주·전라남도": 2,
+        "전라북도": 0,
+        "대전·세종·충청남도": 0,
+        "충청북도": 0,
+        "강원도": 0,
+        "제주도": 0,
+        "특보 상태": 1
+    }
+}
